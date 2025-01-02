@@ -1,0 +1,2 @@
+This is for Git practice
+Renamed the text file.
